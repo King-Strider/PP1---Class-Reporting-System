@@ -1,0 +1,10 @@
+10235   HIST	001	AmericanHist	Douglas		MWF	1000	30	26	4
+36521	MATH	001	Algegra Enstien		MWF	1100	30	20	10	
+31561	COSC	001	IntroProgramming	Anderson		MWF	1000	30	26	4
+15896	COSC	002	IntroProgramming	Anderson		MWF	1000	30	26	4
+18915	COSC	003	IntroProgramming	Smith		MWF	1000	30	26	4
+12366	MATH	001	AmericanHist	Newton		MWF	1000	30	26	4
+12367	COSC	001	AdvProgramming	Trinity		MWF	1000	30	26	4
+12345	HIST	001	EarlyUS	Washington		MWF	1000	30	26	4
+12347	COSC	001	DataStructures	Morpheus		MWF	1000	30	26	4
+12348	HIST	001	Politics	Madison	MWF	1000	30	26	4
